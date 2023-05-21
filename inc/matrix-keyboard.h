@@ -2,6 +2,7 @@
 #define _MATRIX_KEYBOARD_H_
 
 #include <stdint.h>
+#include <stdbool.h>
 
 #include <util/delay_basic.h>
 

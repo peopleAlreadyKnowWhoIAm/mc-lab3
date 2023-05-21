@@ -1,9 +1,5 @@
 #include "clock-manager.h"
 
-// TODO
-// - Complete buzzer signal
-// - Add buzzer every minute
-
 void _rewriteDisplay();
 void _processStopwatch();
 void _clear(volatile char* text, uint8_t size);

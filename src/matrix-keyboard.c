@@ -1,7 +1,5 @@
 #include "matrix-keyboard.h"
 
-#include <stdbool.h>
-
 static volatile uint8_t seen_click[KEYBOARD_LINES];
 static volatile uint8_t done_action[KEYBOARD_LINES];
 
